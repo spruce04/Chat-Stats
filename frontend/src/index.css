@@ -68,4 +68,6 @@ span {
 
 .lb-row {
   border-bottom: 1px dotted black;
+  display: flex;
+  justify-content: space-between;
 }
