@@ -10,6 +10,7 @@ A python script parses the raw .txt export from the chat, dealing with anomalies
 cd data
 python3 parse.py
 ```
+- Please note that this won't work locally, as the raw.txt file has been .gitignored to protect people's message privacy.
 
 ## To run the frontend
 ```
